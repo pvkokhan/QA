@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HOMEWORK> text Homework
+    <CASE_1>
+        <case_1_phrase>мама мыла рамму</case_1_phrase>
+        <case_1_phrase>мама</case_1_phrase>
+    </CASE_1>
+
+    <CASE_2>
+        <sourceLine>Эники, беники, ели вареники? еле. ели</sourceLine>
+        <repeatWord>ели</repeatWord>
+        <punctuation_marks>.,!?:…</punctuation_marks>
+
+
+    </CASE_2>
+
+
+</HOMEWORK>
