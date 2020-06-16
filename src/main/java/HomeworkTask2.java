@@ -7,7 +7,7 @@ import utils.XMLReader;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 
-public class Task2 {
+public class HomeworkTask2 {
 
     public static void main(String[] args) throws IOException, SAXException, ParserConfigurationException {
         XMLReader xml = new XMLReader();
