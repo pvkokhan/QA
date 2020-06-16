@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<HOMEWORK> text Homework
+<HOMEWORK>text Homework
     <CASE_1>
-        <case_1_phrase>мама мыла рамму</case_1_phrase>
-        <case_1_phrase>мама</case_1_phrase>
+        <first_line>мама.мыла.рамму? тра тратата</first_line>
+        <second_line>мама раму рамму</second_line>
     </CASE_1>
 
     <CASE_2>
-        <sourceLine>Эники, беники, ели вареники? еле. ели</sourceLine>
+        <sourceLine>Эники, беники, ели вареники? еле.?!, ели и все с ели съели</sourceLine>
         <repeatWord>ели</repeatWord>
-        <punctuation_marks>.,!?:…</punctuation_marks>
 
 
     </CASE_2>
